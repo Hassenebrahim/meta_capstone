@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.3877c7a7.css",
+    "main.js": "/capstone/static/js/main.d2ba4988.js",
+    "static/media/Bruchetta.svg": "/capstone/static/media/Bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/Salad.jpg": "/capstone/static/media/Salad.bed423a1fab5b210e347.jpg",
+    "static/media/Food.jpg": "/capstone/static/media/Food.e8abf5b772b6817189aa.jpg",
+    "static/media/Restaurant.jpg": "/capstone/static/media/Restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Logo.svg": "/capstone/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "index.html": "/capstone/index.html",
+    "main.3877c7a7.css.map": "/capstone/static/css/main.3877c7a7.css.map",
+    "main.d2ba4988.js.map": "/capstone/static/js/main.d2ba4988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3877c7a7.css",
+    "static/js/main.d2ba4988.js"
+  ]
+}
